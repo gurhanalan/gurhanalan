@@ -33,8 +33,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> </a>
+    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
+    <a href="https://slack.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> </a>
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 
@@ -57,4 +57,5 @@
 <a href = "https://www.linkedin.com/in/gurhanalan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p> -->
-<!-- ![Profile views](https://gpvc.arturio.dev/gurhanalan) <img src="https://img.shields.io/github/followers/gurhanalan?label=Follow" style=" float:left, margin-right:10px" /> -->
+
+![Profile views](https://gpvc.arturio.dev/gurhanalan) <img src="https://img.shields.io/github/followers/gurhanalan?label=Follow" style=" float:left, margin-right:10px" />
