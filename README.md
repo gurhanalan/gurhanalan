@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alan</h1>
 <h2 align="center"> a passionate Frontend Developer.</h2>
 
+<br/>
+
 ## 🙋‍♂️ About Me
 
 -   🔭 I’m currently working on **frontend and mobile app development (JavaScript | React | React Native)**
@@ -16,6 +18,8 @@
 -   📫 How to reach me: **gurhanalan@gmail.com**
 
 -   ⚡ Fun fact: **I am a Captain and a Pilot as well**
+
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -38,6 +42,14 @@
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![ClickUp](http://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=FFC800)
+
+<br/>
+
 ## 📊 My Github Stats
 
 </p>
@@ -45,6 +57,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gurhanalan&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurhanalan&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurhanalan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+<br/>
 
 ## 🤝 Connect with me:
 
@@ -57,5 +71,6 @@
 <a href = "https://www.linkedin.com/in/gurhanalan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p> -->
+<br/>
 
 ![Profile views](https://gpvc.arturio.dev/gurhanalan) <img src="https://img.shields.io/github/followers/gurhanalan?label=Follow" style=" float:left, margin-right:10px" />
