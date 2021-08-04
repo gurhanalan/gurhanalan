@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alan</h1>
-<h2 align="center"> a passionate Frontend Developer.</h2>
+<h2 align="center"> A Passionate FrontEnd Developer.</h2>
 
 <br/>
 
@@ -17,7 +17,9 @@
 
 -   📫 How to reach me: **gurhanalan@gmail.com**
 
--   ⚡ Fun fact: **I am a Captain and a Pilot as well**
+-   ⚡ Fun fact I: I am a **Captain** and a **Pilot** as well
+
+-   ⚡ Fun fact II: I like to dance **Argentine Tango and Salsa**
 
 <br/>
 
