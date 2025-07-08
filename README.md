@@ -23,11 +23,11 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
- 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
     <a href="https://slack.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/slack-new.png"/> </a>
+    
 
 </p>
 
