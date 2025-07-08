@@ -40,7 +40,7 @@
 <br/>
 
 ## 📊 My Github Stats
-
+<br/>
 </p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=gurhanalan&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
@@ -52,6 +52,4 @@
 
 
 
-<br/>
 
-![Profile views](https://gpvc.arturio.dev/gurhanalan) <img src="https://img.shields.io/github/followers/gurhanalan?label=Follow" style=" float:left, margin-right:10px" />
