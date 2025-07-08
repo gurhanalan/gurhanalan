@@ -1,25 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" /></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I'm Alan</h1>
-<h2 align="center"> A Passionate Frontend Developer.</h2>
+<h2 align="center"> A Product Manager learning to code</h2>
 
 <br/>
 
-## 🙋‍♂️ About Me
-
--   🔭 I’m currently working on **Frontend Development (JavaScript | React.js | Next.js )**
-
--   🌱 I’m currently learning **Data Structures & Algorithms and Backend Development (Node.js | Express.js | MongoDB )**
-
--   👯 I’m looking to collaborate on **OpenSource Projects**
-
--   👨‍💻 Most of my projects are available at **[My Portfolio](https://gurhan-portfolio.netlify.app/)**
-
--   📫 How to reach me: **gurhanalan@gmail.com**
-
--   ⚡ Fun fact I: I am a **Captain** and a **Pilot** as well
-
--   ⚡ Fun fact II: I like to dance **Argentine Tango and Salsa**
 
 <br/>
 
@@ -66,15 +51,7 @@
 
 <br/>
 
-## 🤝 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurhanalan/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:gurhanalan@gmail.com)
-[![website](https://img.shields.io/badge/codewars-f1f2f6.svg?&style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/gurhanalan)
-
-<!-- <p align="left">
-
-<a href = "https://www.linkedin.com/in/gurhanalan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p> -->
 <br/>
