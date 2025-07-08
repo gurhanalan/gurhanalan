@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" />, I'm Alan</h1>
+<h1 align="center"> I'm Alan</h1>
 <h2 align="center"> A Product Manager learning to code</h2>
 
 <br/>
@@ -23,9 +23,7 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <!--   -->
-    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
-    <!--  -->
+ 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
@@ -53,7 +51,7 @@
 
 
 
-</p> -->
+
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/gurhanalan) <img src="https://img.shields.io/github/followers/gurhanalan?label=Follow" style=" float:left, margin-right:10px" />
